@@ -1,0 +1,194 @@
+[
+  {
+    "본문번호": 1,
+    "본문": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity. As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation. Then all we have to do is socially learn the right answers. You don’t need to understand how your computer or toilet works; you just need to be able to use the interface and flush. All that needs to be transmitted is which button to push ― essentially how to interact with technologies rather than how they work. And so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation. We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole. We are just doing our part in a larger computation for our societies’ collective brains.",
+    "문제들": [
+      {
+        "문제번호": "1-1",
+        "문제": "지문의 주제로 가장 적절한 것은?",
+        "선지": [
+          "1. The evolution of technology and its impact on society",
+          "2. The importance of individual cognitive capacity in problem-solving",
+          "3. The role of distributed cognition in societal progress",
+          "4. The necessity of understanding complex systems for effective use",
+          "5. The limitations of human memory and information processing"
+        ]
+      },
+      {
+        "문제번호": "1-2",
+        "문제": "지문 속 표현 'socially learn the right answers'의 함축적 의미로 가장 적절한 것은?",
+        "선지": [
+          "1. Acquiring knowledge through personal experience",
+          "2. Relying on collective knowledge for solutions",
+          "3. Understanding complex systems individually",
+          "4. Developing independent problem-solving skills",
+          "5. Memorizing detailed information for future use"
+        ]
+      }
+    ],
+    "정답": [
+      "3",
+      "2"
+    ]
+  },
+  {
+    "본문번호": 2,
+    "본문": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion. An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature. Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes. And while they mimic, they hunt ― producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever’s hiding there.",
+    "문제들": [
+      {
+        "문제번호": "2-1",
+        "문제": "위 지문의 주제로 가장 적절한 것은?",
+        "선지": [
+          "1. The hunting strategies of underwater photographers",
+          "2. The surprising intelligence and adaptability of octopuses",
+          "3. The daily life of flounders in shallow waters",
+          "4. The ecological impact of octopuses on marine life",
+          "5. The role of camouflage in marine species"
+        ]
+      },
+      {
+        "문제번호": "2-2",
+        "문제": "지문 속 표현 'producing the spectacle of, say, a flounder suddenly developing an octopodian arm'의 함축적 의미로 가장 적절한 것은?",
+        "선지": [
+          "1. The unexpected transformation of a fish into an octopus",
+          "2. The gradual evolution of sea creatures over time",
+          "3. The magical appearance of marine life at night",
+          "4. The sudden growth of limbs in aquatic animals",
+          "5. The dramatic hunting tactics used by octopuses"
+        ]
+      }
+    ],
+    "정답": [
+      "2",
+      "5"
+    ]
+  },
+  {
+    "본문번호": 3,
+    "본문": "How much we suffer relates to how we frame the pain in our mind. When 1500m runners push themselves into extreme pain to win a race―their muscles screaming and their lungs exploding with oxygen deficit, they don’t psychologically suffer much. In fact, ultra-marathon runners―those people who are crazy enough to push themselves beyond the normal boundaries of human endurance, covering distances of 50-100km or more over many hours, talk about making friends with their pain. When a patient has paid for some form of passive back pain therapy and the practitioner pushes deeply into a painful part of a patient’s back to mobilise it, the patient calls that good pain if he or she believes this type of deep pressure treatment will be of value, even though the practitioner is pushing right into the patient’s sore tissues.",
+    "문제들": [
+      {
+        "문제번호": "3-1",
+        "문제": "지문의 주제로 가장 적절한 것은?",
+        "선지": [
+          "1. The psychological impact of physical pain",
+          "2. The benefits of passive therapy for back pain",
+          "3. The relationship between physical endurance and mental resilience",
+          "4. The significance of oxygen deficit in athletic performance",
+          "5. The role of belief in pain perception"
+        ]
+      },
+      {
+        "문제번호": "3-2",
+        "문제": "지문 속 'making friends with their pain'의 함축적 의미로 올바른 것은?",
+        "선지": [
+          "1. Accepting and embracing the discomfort",
+          "2. Ignoring the existence of pain",
+          "3. Seeking medical help for pain relief",
+          "4. Avoiding activities that cause pain",
+          "5. Complaining about the intensity of pain"
+        ]
+      }
+    ],
+    "정답": [
+      "5",
+      "1"
+    ]
+  },
+  {
+    "본문번호": 4,
+    "본문": "When I worked for a large electronics company that manufactured laser and ink-jet printers, I soon discovered why there are often three versions of many consumer goods. If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income. If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one. But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price. The middle item has more features than the least expensive one, and it is less expensive than the fanciest model. They buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item.",
+    "문제들": [
+      {
+        "문제번호": "4-1",
+        "문제": "지문에 따르면, 제조업체가 세 가지 버전의 제품을 제공하는 주된 이유는 무엇인가?",
+        "선지": [
+          "1. To simplify consumer choice",
+          "2. To maximize profits by exploiting consumer behavior",
+          "3. To reduce production costs",
+          "4. To enhance brand reputation",
+          "5. To comply with industry standards"
+        ]
+      },
+      {
+        "문제번호": "4-2",
+        "문제": "지문 속 표현 'unaware that they have been manipulated by the presence of the higher-priced item'의 함축적 의미로 올바른 것은?",
+        "선지": [
+          "1. Consumers consciously choose the most expensive model",
+          "2. Consumers are oblivious to the influence of pricing strategies",
+          "3. Consumers deliberately avoid the least expensive model",
+          "4. Consumers are aware of all marketing tactics",
+          "5. Consumers prefer simplicity over complexity"
+        ]
+      }
+    ],
+    "정답": [
+      "2",
+      "2"
+    ]
+  },
+  {
+    "본문번호": 5,
+    "본문": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate. If it didn’t, we might get none of these merits. It was a matter of survival, physically and genetically. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing. The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity. These emotions compel us to do more of what makes our community value us and less of what doesn’t. And, crucially, they are meant to make that motivation feel like it is coming from within. If we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+    "문제들": [
+      {
+        "문제번호": "5-1",
+        "문제": "지문의 주제로 가장 적절한 것은?",
+        "선지": [
+          "1. The evolution of individual intelligence",
+          "2. The impact of social dynamics on survival",
+          "3. The role of genetic inheritance in personal success",
+          "4. The importance of self-awareness in modern society",
+          "5. The influence of technology on human relationships"
+        ]
+      },
+      {
+        "문제번호": "5-2",
+        "문제": "'We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity.' 이 표현의 함축적 의미로 가장 적절한 것은?",
+        "선지": [
+          "1. Our emotions are independent of societal views.",
+          "2. Self-esteem is an innate trait unaffected by external factors.",
+          "3. Emotions serve as internal indicators of our social standing.",
+          "4. Pride and shame are unrelated to community perception.",
+          "5. Insecurity is solely a personal issue, not a social one."
+        ]
+      }
+    ],
+    "정답": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "본문번호": 6,
+    "본문": "Life is what physicists might call a ‘high-dimensional system,’ which is their fancy way of saying that there’s a lot going on. In just a single cell, the number of possible interactions between different molecules is enormous. For example, it is only a limited number of tissues and body shapes that may result from the development of a human embryo. In 1942, the biologist Conrad Waddington called this drastic narrowing of outcomes canalization. The organism may switch between a small number of well-defined possible states, but can’t exist in random states in between them, rather as a ball in a rough landscape must roll to the bottom of one valley or another. We’ll see that this is true also of health and disease: there are many causes of illness, but their manifestations at the physiological and symptomatic levels are often strikingly similar.",
+    "문제들": [
+      {
+        "문제번호": "6-1",
+        "문제": "지문의 주제로 가장 적절한 것은?",
+        "선지": [
+          "1. The complexity of molecular interactions in a single cell",
+          "2. The concept of canalization in biological development",
+          "3. The role of physicists in understanding life systems",
+          "4. The similarity between health and disease manifestations",
+          "5. The limitations of human embryonic development"
+        ]
+      },
+      {
+        "문제번호": "6-2",
+        "문제": "지문 속 표현 'a ball in a rough landscape must roll to the bottom of one valley or another'의 함축적 의미로 올바른 것은?",
+        "선지": [
+          "1. Organisms have limited possible states they can exist in",
+          "2. Life is unpredictable and chaotic",
+          "3. Cells can randomly change their states",
+          "4. Health and disease are completely different",
+          "5. Molecular interactions are always stable"
+        ]
+      }
+    ],
+    "정답": [
+      "2",
+      "1"
+    ]
+  }
+]

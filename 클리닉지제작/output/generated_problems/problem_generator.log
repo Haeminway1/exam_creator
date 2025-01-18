@@ -1,0 +1,20 @@
+2024-11-11 23:43:34,463 - INFO - Successfully loaded 6 keywords from Excel
+2024-11-11 23:43:34,463 - INFO - Processing item 1 of 6
+2024-11-11 23:43:34,463 - INFO - Generated prompt for item 1
+2024-11-11 23:43:38,863 - INFO - Received response for item 1
+2024-11-11 23:43:38,863 - INFO - Processing item 2 of 6
+2024-11-11 23:43:38,863 - INFO - Generated prompt for item 2
+2024-11-11 23:43:43,012 - INFO - Received response for item 2
+2024-11-11 23:43:43,012 - INFO - Processing item 3 of 6
+2024-11-11 23:43:43,013 - INFO - Generated prompt for item 3
+2024-11-11 23:43:48,910 - INFO - Received response for item 3
+2024-11-11 23:43:48,911 - INFO - Processing item 4 of 6
+2024-11-11 23:43:48,911 - INFO - Generated prompt for item 4
+2024-11-11 23:43:56,993 - INFO - Received response for item 4
+2024-11-11 23:43:56,993 - INFO - Processing item 5 of 6
+2024-11-11 23:43:56,993 - INFO - Generated prompt for item 5
+2024-11-11 23:44:00,733 - INFO - Received response for item 5
+2024-11-11 23:44:00,733 - INFO - Processing item 6 of 6
+2024-11-11 23:44:00,734 - INFO - Generated prompt for item 6
+2024-11-11 23:44:04,794 - INFO - Received response for item 6
+2024-11-11 23:44:04,799 - INFO - Successfully saved responses to d:\project\worktable\클리닉지제작\output\generated_problems\한영1.json
