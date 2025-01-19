@@ -1,6 +1,6 @@
 # config.yaml
 api:
-  key: "sk-9gb4Ykmh9VjbvdWnK_zB04KZQWU7an8bSwVR1bp6faT3BlbkFJ7zTyoKLMdvDXrTNgtlcl7yFDQOZvaSDMQ5u4mSRtcA"
+  key: "YOUR API KEY"
 
 paths:
   excel_file: "keywords.xlsx"
